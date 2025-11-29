@@ -12,8 +12,8 @@ REST API do zarządzania Pokemonami z integracją z PokeAPI. Projekt stworzony j
 
 ```bash
 # Sklonuj repozytorium
-git clone <repo>
-cd pokemon-api
+git clone https://github.com/jklejczyk/armygg-zadanie-rekrutacyjne
+cd armygg-zadanie-rekrutacyjne
 
 # Skopiuj plik konfiguracyjny
 cp .env.example .env
